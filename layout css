@@ -24,7 +24,7 @@ ul {
     
 
 }
-a{
+a.menuknop{
     background-color: #505160;
     color: #4CB5F5;
     padding: 14px 35px;
@@ -68,4 +68,10 @@ footer {
 .advertentieplaatje {
 	width: 300px;
 	background-color: black;
+}
+.nieuwsplaatje {
+	width: 300px;
+}
+article {
+	width: 300px;
 }
