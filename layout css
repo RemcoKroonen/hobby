@@ -59,3 +59,13 @@ footer {
 	position:fixed;bottom:0;left:0;right:0;height:30px;
 	text-align: center;
 }
+#content {
+           display: flex;
+		}
+#content2 {
+	display: flex;
+}
+.advertentieplaatje {
+	width: 300px;
+	background-color: black;
+}
