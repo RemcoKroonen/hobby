@@ -21,7 +21,7 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    background-color: #003B46;
+    
 
 }
 a{
@@ -49,4 +49,13 @@ p {
 h3 {
 	text-align: center;
 	
+}
+nav {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: #003B46;
+}
+footer {
+	position:fixed;bottom:0;left:0;right:0;height:30px;
+	text-align: center;
 }
