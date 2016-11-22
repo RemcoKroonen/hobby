@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mijn hobby</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="layout css">
+</head>
+<body>
+<div id="een">
+<ul>
+		
+		<li><a href="Layout 1.html">Home</a></li>
+		<li><a href="Mijn hobby">Mijn Hobby</a></li>
+		<li><a href="Nieuws">Nieuws</a></li>
+
+
+	</ul>
+</div>
+<h1>Mijn hobby</h1>
+
+<h2>Mijn Hobby's zijn:</h2>
+
+
+<h3>Gamen</h3>
+	<p>Mijn hobby's zijn gamen, lezen en gitaar spelen. De games die ik het meeste speel zijn World of warcraft legion en Overwatch allebij gemaakt door Blizzard Entertainment. World of warcraft afgekort WoW is een mmorpg en ook een van de beste van dat genre op het moment. Overwatch is Team-based First Person Shooter en ook een van de beste games van dat genre met meer dan 20 miljoen players op het moment en dan kan zelfs nog meer worden.</p>
+
+<h3>Lezen</h3>
+	<p> Een andere hobby van mij is het lezen van boeken. De boeken die ik het leukste vind zijn: De hobbit, Lord of the rings, A song of ice and fire, De grijze jager en Percy Jackson. Ik vind lezen zo leuk omdat ik het op elk moment kan doen en me helemaal kan afsluiten en soms niks hoor. Het genres die ik het leukst vind is vooral fantasie, actie,
+
+<h3>Gitaar spelen</h3>
+ 	<p>Naast gamen en lezen speel ik ook nog af en toe op mijn elektrische gitaar. Ik ben een half jaar geleden met de lessen gestopt omdat ik het iets minder leuk begon te vinden. Ik vind het ook leuk om naar goede gitaaristen te luisteren en de leukste vind ik op het moment Slash en de gitaarist van alter bridge.</p>
+<h3>Website maken.</h3>
+ 	<p>Sinds het begin van deze opleiding ben ik begonnen met het maken van websites. Ik ben nu bezig met maken van een website voor een guild waar ik in zit. Ik vind dit een leuke hobby/side project</p>
+
+
+ 	
+
+	
+
+</p>	
+</body>
+</html>

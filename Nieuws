@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mijn hobby</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="layout css">
+</head>
+<body>
+<div id="een">
+<ul>
+		<li><a href="Layout 1.html">Home</a></li>
+		<li><a href="Mijn hobby">Mijn Hobby</a></li>
+		<li><a href="Nieuws">Nieuws</a></li>
+
+
+	</ul>
+</div>
+	<h1>Nieuws</h1>
+	<p>Hier staat wat nieuws over games die ik speel.</p>
+</body>
+</html>
