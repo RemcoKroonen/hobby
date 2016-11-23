@@ -6,14 +6,17 @@
 	<link rel="stylesheet" type="text/css" href="layout css">
 </head>
 <body>
-<div id="een">
-<ul>
-		<li><a href="Layout 1.html">Home</a></li>
-		<li><a href="Mijn hobby">Mijn Hobby</a></li>
-		<li><a href="Nieuws">Nieuws</a></li>
-
-
-	</ul>
+<div id="page">
+<header>
+			<img src="img/Hobby.png">
+			<nav>
+				<ul>
+					<li><a class="menuknop" href="Layout 1.html">Home</a></li>
+					<li><a class="menuknop" href="Mijn hobby">Mijn Hobby</a></li>
+					<li><a class="menuknop" href="Nieuws">Nieuws</a></li>
+				</ul>
+			</nav>
+		</header>
 </div>
 	<h1>Nieuws</h1>
 	<p>Hier staat wat nieuws over games die ik speel.</p>

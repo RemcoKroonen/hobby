@@ -54,13 +54,16 @@ nav {
 	margin-top: 20px;
 	margin-bottom: 20px;
 	background-color: #003B46;
+	padding-top: 20px;
+    padding-bottom: 20px;
 }
 footer {
 	position:fixed;bottom:0;left:0;right:0;height:30px;
 	text-align: center;
 }
 #content {
-           display: flex;
+    display: flex;
+
 		}
 #content2 {
 	display: flex;
@@ -74,4 +77,13 @@ footer {
 }
 article {
 	width: 300px;
+}
+td {
+		padding: 50px;
+}
+table {
+	margin-left: 500px;
+}
+aside {
+	padding-top: 50px;
 }
