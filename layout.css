@@ -1,6 +1,7 @@
 body {
 	background-color: #693D3D  ; 
 	margin: 0px;
+	font-family: sans-serif;
 }
 
 
@@ -63,10 +64,17 @@ footer {
 }
 #content {
     display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  justify-content: center;
 
 		}
 #content2 {
 	display: flex;
+	flex-wrap: nowrap;
+	align-items: center;
+   justify-content: center;
+
 }
 .advertentieplaatje {
 	width: 300px;
@@ -77,6 +85,7 @@ footer {
 }
 article {
 	width: 300px;
+	
 }
 td {
 		padding: 50px;
@@ -89,7 +98,16 @@ aside {
 }
 .nieuwsplaatje2 {
 		width: 300px;
+		padding-left: 800px;
+		align-content: center;
 }
 .leesmeer {
 	color: white;
+}
+.tekst {
+	padding: 0px;
+}
+.nieuws {
+	height: 400px;
+	margin: 30px;
 }
